@@ -9,8 +9,13 @@
 
 - 🔭 Recently developed [Proshop](https://proshopmernfull.herokuapp.com/)
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/razaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="razaul" height="30" width="40" /></a>
 <a href="https://twitter.com/razaul95086472" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="razaul95086472" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/razaul_js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="razaul_js" height="30" width="40" /></a>
 </p>
@@ -23,3 +28,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=razaul00003&show_icons=true&locale=en" alt="razaul00003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=razaul00003&" alt="razaul00003" /></p>
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
