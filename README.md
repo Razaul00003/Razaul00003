@@ -12,7 +12,7 @@
 
 - 🌱 Pros **React, MongoDB, Nodejs, Nextjs, TypeScript, JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://frontend-razaul.netlify.app/](https://frontend-razaul.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://razaul.netlify.app/)
 
 - 📝 I regularly write articles on [https://dev.to/razaul](https://dev.to/razaul)
 
@@ -46,4 +46,5 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 I regularly write articles on [https://dev.to/razaul](https://dev.to/razaul)
 <!-- BLOG-POST-LIST:END -->
