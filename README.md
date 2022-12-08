@@ -7,7 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/razaul95086472" target="blank"><img src="https://img.shields.io/twitter/follow/razaul95086472?logo=twitter&style=for-the-badge" alt="razaul95086472" /></a> </p>
 
-- 🔭 Recently developed [Proshop](https://proshopmernfull.herokuapp.com/)
+ -🔭 Recently developed : [Proshop](https://proshop-44w5.onrender.com//), [Quizr](https://quizr.onrender.com//)
+ - 🚀Currently Working on : Chattapp - a clone of messenger  
 
 - 🌱 Pros **React, MongoDB, Nodejs, Nextjs, TypeScript, JavaScript**
 
