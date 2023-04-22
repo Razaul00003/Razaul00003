@@ -1,20 +1,16 @@
 <h1 align="center">Hi 👋, I'm Razaul Karim</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=razaul00003&label=Profile%20views&color=0e75b6&style=flat" alt="razaul00003" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=razaul00003" alt="razaul00003" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/razaul95086472" target="blank"><img src="https://img.shields.io/twitter/follow/razaul95086472?logo=twitter&style=for-the-badge" alt="razaul95086472" /></a> </p>
 
  -🔭 Recently developed : [Proshop](https://proshop-44w5.onrender.com//), [Quizr](https://quizr.onrender.com//)
- - 🚀Currently Working on : Chattapp - a clone of messenger  
+ - 🚀Currently: Data Structures and Algorithms, and actively looking for Internship opportunities.   
 
-- 🌱 Pros **React, MongoDB, Nodejs, Nextjs, TypeScript, JavaScript**
+- 🌱 Pros **React, React Native, Nodejs, Nextjs, TypeScript, JavaScript**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://razaul.netlify.app/)
 
-- 📝 I regularly write articles on [https://dev.to/razaul](https://dev.to/razaul)
 
 - 💬 Ask me about **react, nextjs, typescript, javascript**
 
@@ -43,8 +39,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=razaul00003&" alt="razaul00003" /></p>
 
-# Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-📝 I regularly write articles on [https://dev.to/razaul](https://dev.to/razaul)
 <!-- BLOG-POST-LIST:END -->
