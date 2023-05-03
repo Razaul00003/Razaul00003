@@ -6,9 +6,6 @@
 
 - 🌱 Pros **React, React Native, Nodejs, Nextjs, TypeScript, JavaScript**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://razaul.netlify.app/)
-
-
 - 💬 Ask me about **react, nextjs, typescript, javascript**
 
 ### 📫 Reach Me
