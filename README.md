@@ -2,7 +2,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Razaul00003&label=Profile%20views&color=0e75b6&style=flat" alt="fmahadybd" /> <img height="20" src="https://img.shields.io/github/followers/Razaul00003?label=follow&logo=github&style=flat" />
 </p>
 
- - 🚀Currently: Data Structures and Algorithms, and actively looking for Internship/Job opportunities.   
+ - 🚀Currently: enjoying my free time with  Data Structures and Algorithms.   
 
 - 🌱 Pros **React, React Native, Nodejs, Nextjs, TypeScript, JavaScript**
 
