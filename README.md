@@ -23,7 +23,7 @@
 ### Language
 [![Confident At ](https://skillicons.dev/icons?i=js,ts,python)](https://skillicons.dev)
 ### Tools, Library & Framework
-[![Confident At ](https://skillicons.dev/icons?i=react,sass,express,nodejs,tailwind,bootstrap,redux,git,github,figma,babel,heroku,firebase,netlify,vercel,nextjs,graphql,mongodb,prisma,jest)](https://skillicons.dev)
+[![Confident At ](https://skillicons.dev/icons?i=react,sass,express,nodejs,tailwind,bootstrap,html,css,redux,git,github,figma,babel,heroku,firebase,netlify,vercel,nextjs,graphql,mongodb,prisma,jest)](https://skillicons.dev)
 
 ### Open to learn 
 [![Confident At ](https://skillicons.dev/icons?i=php,mysql,laravel,vuejs,shopify)](https://skillicons.dev)
